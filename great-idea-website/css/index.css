@@ -68,10 +68,10 @@ h1, h2, h3, h4, h5 {
 
 .container{
 	box-sizing:border-box;
-	width:800px;
+	width:60%;;
 	height: 100%;
-	margin-left:22.5%;
-	margin-right:10%;
+	margin-left:20%;
+	margin-right:20%;
 
 	
 }
